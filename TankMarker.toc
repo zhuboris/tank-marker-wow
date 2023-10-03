@@ -1,0 +1,9 @@
+## Interface: 51536
+## Title: Tank Marker
+## Author: boris_zhuravel
+## Notes: Marks the tank with requested mark or a blue square. Is there is no tanks in group it marks leader instead.
+## Version: 1.0
+## IconTexture: Interface\Icons\Ability_hunter_markedfordeath
+
+TankMarker.lua
+Marks.lua
