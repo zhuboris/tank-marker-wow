@@ -9,6 +9,6 @@ If no tank is present in the group, the addon will attempt to mark the group/rai
 Remember, to set marks in a raid, appropriate permissions are required.
 
 ## Slash Commands
-- **/marktank** - Sets the default mark: the blue square
-- **/marktank {mark}** - Choose a specific mark, e.g., /marktank purple or /marktank cross. Both color and shape options are allowed: star/yellow, circle/orange, diamond/purple, triangle/green, moon, square/blue, cross/red, and skull/white.
-- **/marktank help** Displays detailed information about the addon and these commands
+- **/marktank** — Sets the default mark: the blue square
+- **/marktank {mark}** — Choose a specific mark, e.g., /marktank purple or /marktank cross. Both color and shape options are allowed: star/yellow, circle/orange, diamond/purple, triangle/green, moon, square/blue, cross/red, and skull/white.
+- **/marktank help** — Displays detailed information about the addon and these commands
