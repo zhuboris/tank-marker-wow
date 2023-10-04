@@ -2,6 +2,11 @@
 World of Warcraft Addon for setting tartet markings
 
 ![Screenshot](https://i.postimg.cc/NGZ3y4Nt/snapedit-1696361725011.png)
+
+## Download
+Curseforge: https://www.curseforge.com/wow/addons/tank-marker  
+Wago: https://addons.wago.io/addons/tank-marker
+
 ## Description
 This addon allows you to easily mark your tank using the single slash command **/marktank**. It makes tracking the tank's location simpler, especially in scenarios with numerous enemies.  
 Gone are the days of sifting through group frames to find the tank and deciding on a mark. Now, just create a macro with this command. You can even select your preferred mark.  
